@@ -180,10 +180,10 @@ namespace Password_Manager___Grundforløbsprøve
                             }
                         }
                         
-                        //Hvis brugeren vælger delete a login
+                        //Hvis brugeren vælger delete et login
                         else if(showMenuChoice == "2")
                         {
-                            //Ny løkke til delete login menuen
+                            //Ny løkke til at delete login menuen
                             //Main Menu -> Show login -> Delete login
                             while (looper)
                             {
